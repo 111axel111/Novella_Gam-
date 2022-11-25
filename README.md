@@ -15,6 +15,7 @@
 ##
 Как установить:
 Для того что бы запустить игру, нужно скачать папку "ipokidausvoedom".
+Ссылка на скачивание папки с игрой https://drive.google.com/drive/folders/1tr_DJCUKegn3ZgoyHtZd8-ldsdrydU5K?usp=sharing
 Запустить файл "ipokidausvoedom.exe".
 ##
 Построен с помощью:
