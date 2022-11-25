@@ -14,10 +14,10 @@
 ![image](https://user-images.githubusercontent.com/79350520/202925294-789e3fdd-1487-49fc-838a-8a5f8940ed40.png)
 ##
 Как установить:
-Для того что бы запустить игру, нужно скачать папку "ipokidausvoedom".
-Ссылка на скачивание папки с игрой https://drive.google.com/drive/folders/1tr_DJCUKegn3ZgoyHtZd8-ldsdrydU5K?usp=sharing
-После скачивания нужно открыть папку.
-После запустить файл "ipokidausvoedom.exe".
+- Для того что бы запустить игру, нужно скачать папку "ipokidausvoedom".
+- Ссылка на скачивание папки с игрой https://drive.google.com/drive/folders/1tr_DJCUKegn3ZgoyHtZd8-ldsdrydU5K?usp=sharing
+- После скачивания нужно открыть папку.
+- После запустить файл "ipokidausvoedom.exe".
 ##
 Построен с помощью:
 - Движок "RenPy"
